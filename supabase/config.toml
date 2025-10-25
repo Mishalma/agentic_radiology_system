@@ -1,0 +1,7 @@
+project_id = "gqxbddqmkegialzldzeg"
+
+[functions.analyze-xray]
+verify_jwt = false
+
+[functions.send-patient-notification]
+verify_jwt = false
